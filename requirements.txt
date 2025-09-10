@@ -60,3 +60,12 @@ numexpr==2.7.2
 nltk==3.6.6
 urlextract==1.2.0
 
+##### Data visualization and plotting enhancements
+seaborn==0.11.2
+plotly==5.6.0
+
+##### Deep learning alternatives/additions
+keras==2.8.0
+torch==1.10.2  # PyTorch (optional alternative to TensorFlow)
+torchvision==0.11.3  # For computer vision with PyTorch
+
