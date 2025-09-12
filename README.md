@@ -5,7 +5,7 @@ Machine Learning Notebooks
 
 This project is for the first edition, which is now outdated.
 
-<details>
+details
 
 This project aims at teaching you the fundamentals of Machine Learning in
 python. It contains the example code and solutions to the exercises in my O'Reilly book [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/):
